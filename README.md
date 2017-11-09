@@ -8,5 +8,5 @@ Idea based on https://github.com/tsugliani/vdude
 Install with [fisherman](https://github.com/fisherman/fisherman)
 
 ```
-$ fisher whereismyfish
+$ fisher cloudmaniac/whereismyfish
 ```
