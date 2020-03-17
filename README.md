@@ -8,5 +8,6 @@ Idea based on https://github.com/tsugliani/vdude
 Install with [fisherman](https://github.com/fisherman/fisherman)
 
 ```
-$ fisher cloudmaniac/whereismyfish
+$ fisher add humanize_duration
+$ fisher add cloudmaniac/whereismyfish
 ```
