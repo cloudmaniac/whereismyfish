@@ -1,4 +1,4 @@
 edc/bass
-fisherman/humanize_duration
+jorgebucaran/humantime.fish
 fisherman/ansible-completion
 barnybug/docker-fish-completion
