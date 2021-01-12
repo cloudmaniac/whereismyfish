@@ -3,7 +3,7 @@ function fish_right_prompt
 
   if test "$CMD_DURATION" -gt 2000
     set -l duration_copy $CMD_DURATION
-    set -l duration (echo $CMD_DURATION | humanize_duration)
+    set -l duration (humantime $CMD_DURATION)
     echo -sn (tput setaf 59) "($duration) "
   end	
 
